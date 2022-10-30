@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/hades.png</file>
+        <file>res/poseidon.png</file>
+        <file>res/zeus.png</file>
+    </qresource>
+</RCC>
